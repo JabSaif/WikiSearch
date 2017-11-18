@@ -1,0 +1,5 @@
+.wikipediaIcon {display: inline-block; position: relative; left: 37%; margin-top: 5%;padding-bottom: 2%}
+.wikipediaSearch {padding: 5px; display: inline-block;}
+.serach {width: 3%; height: 3%; display: inline-block; position: absolute; margin-top: 2%;}
+.btn {border: transparent;}
+#output li {list-style: none; margin-top: 40px; }
